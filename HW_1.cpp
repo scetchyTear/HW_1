@@ -10,7 +10,8 @@ int main()
 	cin >> b;
 	cin >> c;
 	cin >> d;
-	cout << a << b << c << d;
+	cout << a + b + c + d;
+
 
 }
 
